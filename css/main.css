@@ -56,7 +56,7 @@ nav a:hover{
 
 #main{
     width: 75%;
-    /* float: left; */
+    float: left;
     height: 100%;
     padding-left: 20px;
     padding-top: 20px;
@@ -65,7 +65,7 @@ nav a:hover{
 
 #side{
     width: 20%;
-    /* float: right; */
+    float: right;
     height: 100%;
     padding: 20px;
 }
